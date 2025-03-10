@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+* {
+    font-family: sans-serif;
+    
+}
+
+img {
+    width: 600px;
+    height: 200px;
+    margin: 0px;
+}
+h4 {
+    margin-bottom: 1px;
+    font-size: 15px;
+}
+p {
+    margin-top: 1px;
+    text-align: right;
+    font-size: 12px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    
+}
+td {
+    
+    padding: 3px;
+    padding-right: 10px ;
+    font-size: 11px;
+    text-align: left;
+}
+thead:nth-child(odd)  {
+    background-color:#dddbdb;
+}
+tr:nth-child(even)  {
+    background-color: #dddbdb;
+}
+
+iframe {
+    width: 45vw;
+    height: 47vh;
+    overflow: hidden;
+    margin: 0px;
+    margin-top: -20px;
+    margin-bottom: -50px;
+    
+  }
+
+  #iframep {
+    
+    width: 18vw;
+    height: 39vh;
+    position: absolute;
+    top: 210px;
+  }
+
+  #iframe4 {
+    margin-top: -70px;
+    width: 18vw;
+    height: 45vh;
+    
+  }
+  
+  ::-webkit-scrollbar {
+        display: none;
+    }
+
+    #iframe5 {
+        width: 15vw;
+        height: 19vh;
+        position: absolute;
+        top: 220px;
+        left: 900;
+    }
+
+#iframe6 {
+    
+    width: 15vw;
+    height: 35vh;
+    position: absolute;
+    top: 423px;
+}
+
+#iframe7 {
+    width: 10vw;
+    height: 18vh;
+    position: absolute;
+    right: 140px;
+    top: 425px;
+}
+
+
