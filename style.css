@@ -8,7 +8,8 @@
 img {
     width: 600px;
     height: 200px;
-    margin: 0px;
+   
+    
 }
 h4 {
     margin-bottom: 1px;
@@ -50,7 +51,7 @@ iframe {
     overflow: hidden;
     margin: 0px;
     margin-top: -20px;
-    margin-bottom: -50px;
+    margin-bottom: -5px;
 }
   #iframep {
     
@@ -63,7 +64,7 @@ iframe {
   #iframe4 {
     position: relative;
     width: 245px;
-    height: 288px;
+    height: 255px;
     top: -30px;
   }
   
