@@ -110,3 +110,11 @@
         top: 955px;
     }
 }
+
+@media screen and (max-width: 618px) {
+    iframe {
+        width: 500;
+        height: 250;
+        background-size: cover;
+    }
+}
