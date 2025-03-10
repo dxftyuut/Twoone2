@@ -45,28 +45,26 @@ tr:nth-child(even)  {
 }
 
 iframe {
-    width: 45vw;
-    height: 47vh;
+    width: 614px;
+    height: 250px;
     overflow: hidden;
     margin: 0px;
     margin-top: -20px;
     margin-bottom: -50px;
-    
-  }
-
+}
   #iframep {
     
-    width: 18vw;
-    height: 39vh;
+    width: 245px;
+    height: 249px;
     position: absolute;
-    top: 210px;
+    top: 150px;
   }
 
   #iframe4 {
-    margin-top: -70px;
-    width: 18vw;
-    height: 45vh;
-    
+    position: relative;
+    width: 245px;
+    height: 288px;
+    top: -30px;
   }
   
   ::-webkit-scrollbar {
@@ -74,24 +72,25 @@ iframe {
     }
 
     #iframe5 {
-        width: 15vw;
-        height: 19vh;
+        width: 204px;
+        height: 121px;
         position: absolute;
         top: 220px;
         left: 900;
+        
     }
 
 #iframe6 {
     
-    width: 15vw;
-    height: 35vh;
+    width: 204px;
+    height: 224px;
     position: absolute;
     top: 423px;
 }
 
 #iframe7 {
-    width: 10vw;
-    height: 18vh;
+    width: 136px;
+    height: 115px;
     position: absolute;
     right: 140px;
     top: 425px;
