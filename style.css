@@ -97,4 +97,11 @@ iframe {
     top: 425px;
 }
 
-
+p#umsete {
+    position: absolute;
+    left: 500px;
+}
+p#um {
+    left: 199px;
+    position: absolute;
+}
